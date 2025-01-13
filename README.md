@@ -31,10 +31,10 @@ Synthasya es una plataforma que permite compartir y gestionar videos educativos 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/aluraflix.git
+git clone https://github.com/tu-usuario/aluraflix.git](https://github.com/darwinovap/Aluraflix-Challenge.git
 
 # Instalar dependencias
-cd aluraflix
+cd aluraflix-project
 npm install
 
 # Iniciar el servidor de desarrollo
