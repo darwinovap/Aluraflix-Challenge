@@ -10,6 +10,8 @@
 
 Synthasya es una plataforma que permite compartir y gestionar videos educativos relacionados con la producción musical. Los usuarios pueden organizar los videos por categorías como BeatMaking, Mixing, Mastering y Theory.
 
+[Screencast from 2025-01-12 23-50-20.webm](https://github.com/user-attachments/assets/fc1c44c2-eb68-432c-b65d-daf80fd47051)
+
 ## ✨ Características
 
 - 📺 Reproducción de videos de YouTube
