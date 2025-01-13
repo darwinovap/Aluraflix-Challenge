@@ -17,7 +17,7 @@ Synthasya es una plataforma que permite compartir y gestionar videos educativos 
 - ➕ Agregar nuevos videos
 - 📝 Editar videos existentes
 - 🗑️ Eliminar videos
-- 💅 Diseño responsive
+
 
 ## 🛠️ Tecnologías Utilizadas
 
